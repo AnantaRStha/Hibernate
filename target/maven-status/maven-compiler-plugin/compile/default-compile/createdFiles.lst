@@ -1,0 +1,4 @@
+com/example/mains/MainApp.class
+com/example/entities/ProductEntity.class
+com/example/repositories/ProductRepository.class
+com/example/utils/HibernateUtil.class

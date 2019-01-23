@@ -20,5 +20,8 @@
 		<mapping class="com.example.entities.ProductEntity"></mapping>
 		<mapping class = "com.example.entities.VehicleEntity"></mapping>
 		<mapping class = "com.example.entities.DrinksEntity"></mapping>
+		<mapping class = "com.example.entities.AddressEntity"></mapping>
+		<mapping class = "com.example.entities.AuthorEntity"></mapping>
+		<mapping class = "com.example.entities.BooksEntity"></mapping>
 	</session-factory>
 </hibernate-configuration>

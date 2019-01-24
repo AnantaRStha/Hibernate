@@ -26,8 +26,6 @@ public class BooksEntity {
 	@Column(name="year")
 	private Integer year;
 	
-	@Column(name="author_id")
-	private Long author_id;
 
 	public String getName() {
 		return name;
